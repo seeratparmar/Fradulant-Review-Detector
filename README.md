@@ -20,13 +20,6 @@ Activation functions:
 <img src="https://user-images.githubusercontent.com/72322378/143286882-aa09c3ec-104b-4425-a383-57dbb3f268f1.jpg" width="500">     <img src="https://user-images.githubusercontent.com/72322378/143286894-1fe9ee38-cc6c-48d3-a576-afea92df3ad9.jpg " width="500">
 
 
-
-![image-002](https://user-images.githubusercontent.com/72322378/143286882-aa09c3ec-104b-4425-a383-57dbb3f268f1.jpg )
-![image-003](https://user-images.githubusercontent.com/72322378/143286894-1fe9ee38-cc6c-48d3-a576-afea92df3ad9.jpg )
-
-
-
-
 Data Visualisation: The results given by the model are presented in an accessible way to better see and understand trends, outliers, and patterns in data, so that accurate and relevant conclusions can be drawn from them.
 
 ![image-005](https://user-images.githubusercontent.com/72322378/143287028-74e0befd-28ff-4801-93c7-59c84e206f8d.jpg)
