@@ -1,7 +1,8 @@
 # Fradulant-Review-Detection
 The project intends to check reviews left by the customers on online platforms for their veracity. It’s purpose is t o separate the untruthful spam from genuine reviews. The project was implemented through an integrated model, with discrete modules being developed and extensively tested individually before their integration.
 
-Pie Chart Real:Fake review ratio
+Pie Chart of Real : Fake review ratio
+
 ![image-000](https://user-images.githubusercontent.com/72322378/143286392-d55482b3-734a-4d4f-a7d5-0b2bc132711c.jpg)
 
 
@@ -16,7 +17,7 @@ Layers of the CNN
 
 Activation functions:
 
-![image-002](https://user-images.githubusercontent.com/72322378/143286882-aa09c3ec-104b-4425-a383-57dbb3f268f1.jpg)![image-003](https://user-images.githubusercontent.com/72322378/143286894-1fe9ee38-cc6c-48d3-a576-afea92df3ad9.jpg)
+![image-002](https://user-images.githubusercontent.com/72322378/143286882-aa09c3ec-104b-4425-a383-57dbb3f268f1.jpg =250x250)![image-003](https://user-images.githubusercontent.com/72322378/143286894-1fe9ee38-cc6c-48d3-a576-afea92df3ad9.jpg =250x250)
 
 
 
