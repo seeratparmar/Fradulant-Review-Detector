@@ -17,8 +17,7 @@ Layers of the CNN
 
 Activation functions:
 
-<img src="https://user-images.githubusercontent.com/72322378/143286882-aa09c3ec-104b-4425-a383-57dbb3f268f1.jpg" width="400">
-<img src="https://user-images.githubusercontent.com/72322378/143286894-1fe9ee38-cc6c-48d3-a576-afea92df3ad9.jpg " width="400">
+<img src="https://user-images.githubusercontent.com/72322378/143286882-aa09c3ec-104b-4425-a383-57dbb3f268f1.jpg" width="350"> <img src="https://user-images.githubusercontent.com/72322378/143286894-1fe9ee38-cc6c-48d3-a576-afea92df3ad9.jpg " width="350">
 
 
 
