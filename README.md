@@ -1,5 +1,5 @@
 # Fradulant-Review-Detection
-The project intends to check reviews left by the customers on online platforms for their veracity. It’s purpose is t o separate the untruthful spam from genuine reviews. The project was implemented through an integrated model, with discrete modules being developed and extensively tested individually before their integration.
+The project intends to check reviews left by the customers on online platforms for their veracity. It’s purpose is to separate the untruthful spam from genuine reviews. The project was implemented through an integrated model, with discrete modules being developed and extensively tested individually before their integration.
 
 Pie Chart of Real : Fake review ratio
 
